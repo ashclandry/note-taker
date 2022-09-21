@@ -40,7 +40,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Mock-Up
-![screenshot of mock-up](/Develop/assets/images/mockup.png)
+![screenshot of mock-up](./Develop/assets/images/mockup.png)
 
 ### Additional instructions:
 * Front end must connect to Express.js back en
@@ -63,12 +63,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Video of Note Taker Application]()
 
 ## Installation
-* Download [Node.js](!https://nodejs.org/en/) 
+* Download [Node.js](https://nodejs.org/en/) 
 * Clone repository from GitHub 
-* Open terminal and install the [Inquirer package](!https://www.npmjs.com/package/inquirer) 
+* Open terminal and install the [Inquirer package](https://www.npmjs.com/package/inquirer) 
 
 ## Credits
-* [NPM Documentation](!https://www.npmjs.com/)
+* [NPM Documentation](https://www.npmjs.com/)
 
 ## License 
 MIT License
