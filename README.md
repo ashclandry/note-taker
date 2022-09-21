@@ -16,11 +16,14 @@ The purpose of this repository is to create an application that can be used to w
 - [License](#license)
 
 ## User Story
+```md
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
+```
 
 ## Acceptance Criteria
+```md
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -34,6 +37,7 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+```
 
 ## Mock-Up
 ![screenshot of mock-up](/Develop/assets/images/mockup.png)
@@ -53,10 +57,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 * ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Final Application
-![Video of Note Taker application]()
+![Video of Note Taker Application]()
 
 ## Installation
 * Download [Node.js](!https://nodejs.org/en/) 
