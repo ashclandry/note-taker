@@ -61,7 +61,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Final Application
 [View Live Link On Heroku](https://evening-everglades-70437.herokuapp.com/notes)
-![Video of Note Taker Application]()
 
 ## Installation
 * Download [Node.js](https://nodejs.org/en/download/)
