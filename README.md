@@ -57,15 +57,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 * ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Final Application
 ![Video of Note Taker Application]()
 
 ## Installation
-* Download [Node.js](https://nodejs.org/en/) 
 * Clone repository from GitHub 
-* Open terminal and install the [Inquirer package](https://www.npmjs.com/package/inquirer) 
+* Open terminal and install:
+`npm install express`
+
+## Usage 
+
 
 ## Credits
 * [NPM Documentation](https://www.npmjs.com/)
