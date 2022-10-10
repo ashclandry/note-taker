@@ -57,20 +57,23 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 * ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+* ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Final Application
+[View Live Link On Heroku](https://evening-everglades-70437.herokuapp.com/notes)
 ![Video of Note Taker Application]()
 
 ## Installation
+* Download [Node.js](https://nodejs.org/en/download/)
 * Clone repository from GitHub 
-* Open terminal and install:
-`npm install express`
-
-## Usage 
-
+* Open terminal and type `npm i` to install all dependencies.
+* To make sure app is listening type `node server.js`
 
 ## Credits
 * [NPM Documentation](https://www.npmjs.com/)
+* [Express.js Routing Documentation](https://expressjs.com/en/guide/routing.html)
+* [Heroku Documentation](https://devcenter.heroku.com/categories/reference)
+* Class lectures from Express.js week 11
 
 ## License 
 MIT License
